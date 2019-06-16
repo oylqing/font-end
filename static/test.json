@@ -1,0 +1,11 @@
+{
+    "TotalSent":"2917500", 
+    "MinDelay":"7ms", 
+    "MaxDelay":"65535ms",
+    "time": "2019-06-03 16:00:52",
+    "one": "<=29ms",
+    "two": "<=39ms",
+    "three": "<=75ms",
+    "four": "<=142ms",
+    "hundred": "<=65535ms"
+}
